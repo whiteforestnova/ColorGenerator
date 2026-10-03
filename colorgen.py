@@ -12,3 +12,4 @@ while True:
     root.maxsize(500, 500)
     root.geometry("300x300+50+50")
     input("press enter to continue:")
+    root.destroy()
